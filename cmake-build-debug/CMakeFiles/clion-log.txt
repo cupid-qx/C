@@ -1,1 +1,4 @@
-MinGW not found at: C:\MinGW
+"E:\Program File\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Code\C
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Code/C/cmake-build-debug
