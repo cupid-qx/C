@@ -1,0 +1,3 @@
+ToolSet: 5.0@E:\MingW
+Options: 
+CMake: 3.8.2@E:\Program File\CLion 2017.2.2\bin\cmake\bin\cmake.exe
